@@ -4,7 +4,7 @@ This is a mainframe program written in C from my days at Experian in the ninetie
 
 ## Background
 
-This was the mid to late nineties in the Marketing Services department of Experian (nee CCN).  We were responsible basically for sending out junk mail.  A lot of it.  The postman turned up with a 40 tonne articulated lorry.  Something to feel *really* proud of.  The mainframe site where we worked is now the site of a big Audi garage near the ring road in Nottingham.  It was built on the site of an old landfill - and the roof leaked.
+This was the mid to late nineties in the Marketing Services department of Experian (nee CCN).  We were responsible basically for sending out junk mail.  A lot of it.  The postman turned up with a 40 tonne articulated lorry.  Something to feel *really* proud of.  The mainframe site where we worked is now the site of a big Audi garage near the ring road in Nottingham.  It was built on the site of an old landfill - and the roof leaked.  Interesting to muse that the stuff we produced came from a landfill and shortly went back into one.  Very Lion King.
 
 Marketing Service dealt with big marketing mailing databases based on the electoral roll - so nearly everyone.  I say database is the loosest sense as they we really just big files, held on cartridge tape with one record (limited to 32 kB) typically representing one household.  The record was keyed on URN (unique record number) and contained entities such as the root household, persons, accounts, etc. in a tree of hierarchically linked 'segments'.  If the record spilled over 32 kB, things were split over two records - and life got complicated.
 
