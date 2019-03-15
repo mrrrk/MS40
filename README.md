@@ -1,3 +1,5 @@
+# GM40GPD (a.k.a. MS40)
+
 This is a mainframe program written in C from my days at Experian in the nineties.  Most of the stuff we did was written in PL/1 (the kipper tie of programming languages) but when I learned that Experian had invested in a C compiler for the mainframe, I saw it as a step on the way out of what I saw as a dead-end world and was keen to use it...
 
 ## Background
